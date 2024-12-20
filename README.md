@@ -1,5 +1,3 @@
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjvxkiRIH2Z4cpIVI2xyzSLZWn2A_X0-sfw&s)
-
 # 💫 About Me:
 I’m interested in Web Development and Designing<br>I’m looking to collaborate on Open Source Front-End Projects<br>I am a student as well<br>
 
