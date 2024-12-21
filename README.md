@@ -1,9 +1,9 @@
 # 💫 About Me:
-  - Passionate React developer and graphic designer
-	- Currently working on web applications
-  - Enthusiastic about AI/ML
-	- Love blending creativity with tech
-	- Always eager to learn and share knowledge
+- Passionate React developer and graphic designer
+- Currently working on web applications
+- Enthusiastic about AI/ML
+- Love blending creativity with tech
+- Always eager to learn and share knowledge
 
 
 # 💻 Tech Stack:
