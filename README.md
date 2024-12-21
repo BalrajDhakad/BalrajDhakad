@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m interested in Web Development and Designing<br>I’m looking to collaborate on Open Source Front-End Projects<br>I am a student as well<br>
+  - Passionate React developer and graphic designer
+	- Currently working on web applications
+  - Enthusiastic about AI/ML
+	- Love blending creativity with tech
+	- Always eager to learn and share knowledge
 
 
 # 💻 Tech Stack:
